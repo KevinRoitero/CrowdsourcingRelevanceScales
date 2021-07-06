@@ -1,14 +1,10 @@
 # CrowdsourcingRelevanceScales
 repository for the paper "On the Effect of Relevance Scales in Crowdsourcing Relevance Assessments for Information Retrieval Evaluation."
 
-
-This repository contains the crowdsourced judgments used in the IPM'21 paper titled "On the Effect of Relevance Scales in Crowdsourcing Relevance Assessments for Information Retrieval Evaluation."
-
 ## Citation
 If you use this resource, please cite our paper:
 
 *Kevin Roitero, Eddy  Maddalena, Stefano Mizzaro, and Falk Scholer. On the Effect of Relevance Scales in Crowdsourcing Relevance Assessments for Information Retrieval Evaluation. Information processing and Management (IPM).*
-
 
 
 ### BibTeX
@@ -38,3 +34,8 @@ The dataset, contained in the .csv file contains the following information:
  - `trec`: The score as submitted by TREC (if available).
  - `sormunen`: The score as submitted by Sormunen (if available).
  - `relevance_scale`: The relevance scale used by the workers to perform the assessment.
+
+
+## Disclaimer Notice
+
+The information included in this repository is for research purposes only.
